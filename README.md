@@ -1,1 +1,0 @@
-# photon-kit-docs
